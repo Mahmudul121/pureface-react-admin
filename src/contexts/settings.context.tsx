@@ -9,8 +9,8 @@ const initialState = {
   currency: "USD",
   logo: {
     id: 1,
-    thumbnail: "/logo.svg",
-    original: "/logo.svg",
+    thumbnail: "/new_logo.png",
+    original: "/new_logo.png",
   },
 };
 

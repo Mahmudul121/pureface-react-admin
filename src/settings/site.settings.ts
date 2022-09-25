@@ -5,7 +5,7 @@ export const siteSettings = {
   name: "ChawkBazar",
   description: "",
   logo: {
-    url: "/logo.svg",
+    url: "/new_logo.png",
     alt: "ChawkBazar",
     href: "/",
     width: 128,
